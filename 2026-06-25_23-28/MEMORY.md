@@ -1,0 +1,3 @@
+- [GitHub Sync Setup](github-sync-setup.md) — Claude Code GitHub sync configuration for memory persistence
+- [My Coding Preferences](my-coding-preferences.md) — Code style and project preferences for the user
+- [Git Claude Memory Sync Config](git-claude-memory-sync-config.md) — Complete configuration details for Claude Code memory auto-sync to GitHub
